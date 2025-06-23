@@ -76,8 +76,6 @@ python -m spacy download en_core_web_sm
 python -m textblob.download_corpora
 ```
 
----
-
 ## Customization
 
 - **Change `feedback_column`** in `sentiment_analysis.py` if your CSV uses a different column name for feedback.
