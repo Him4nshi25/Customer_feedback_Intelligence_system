@@ -1,8 +1,3 @@
-# Customer_feedback_Intelligence_system
-Absolutely! Here’s your documentation in **Markdown** format, ready to copy and paste directly into your `README.md` file:
-
----
-
 # Customer Feedback Intelligence System
 
 This project processes customer feedback data to:
